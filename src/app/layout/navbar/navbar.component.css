@@ -1,0 +1,11 @@
+.logo{
+    height: 100px;
+    width: 100px;
+}
+.navbar a{
+    font-size: 50px;
+    color: rgb(92, 92, 230);
+}
+.navbar-expand-lg{
+    background-color: gray;
+}
